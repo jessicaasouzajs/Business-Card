@@ -1,6 +1,6 @@
 # 💼 Cartão de Visita Virtual
 
-Este projeto é um cartão de visita digital, desenvolvido para ser compartilhado com facilidade por meio de um link ou QR Code.
+Este projeto é um cartão de visita digital, desenvolvido para ser compartilhado com facilidade por meio de um link ou QR Code, possibilitando uma comunicação ágil e favorecendo o envio de arquivos entre cliente e profissional.
 
 ## 🧾 Finalidade
 
@@ -21,12 +21,12 @@ O objetivo é apresentar de forma simples, moderna e acessível as seguintes inf
 
 ## 🔗 Visualizar Online
 
-Você pode acessar o cartão de visita hospedado no GitHub Pages:  
+Você pode acessar o cartão de visita hospedado no GitHub Pages:
+https://jessicaasouzajs.github.io/Business-card/ 
 
+## 📱 Acesse pelo QR Code
 
-> *Substitua pelo link real do seu cartão se estiver usando outro repositório*
-
----
+![QR Code do Cartão](img/QR%20Code.png)
 
 ## ⚙️ Como clonar o projeto
 
