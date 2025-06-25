@@ -26,7 +26,7 @@ https://jessicaasouzajs.github.io/Business-card/
 
 ## 📱 Acesse pelo QR Code
 
-![QR Code do Cartão](img/QR%20Code.png)
+<img src="img/QR Code.png" alt="QR code do cartao" width="200">
 
 ## ⚙️ Como clonar o projeto
 
